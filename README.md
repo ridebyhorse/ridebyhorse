@@ -1,17 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=2000&color=A9FEF7&background=FFFFFF00&width=700&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Maria)](https://git.io/typing-svg)
+<h1>
+  Hi there, my name is Maria
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### I'm an IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 💻 Building IOS apps with Swift in XCode
-- 🚀 UIKit / CocoaPods / SPM / JSON
+### I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
+- 💻 Building iOS apps with Swift in XCode
+- 🚀 Swift 5 / UIKit / Autolayout / CocoaPods
 - :zap: Solving problems on LeetCode
 - 🌠 Designing in Figma and Photoshop
 - 🤝 Open for collaborations
 
----
-
 <p align="left" >  
  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridebyhorse&show_icons=true&theme=radical&hide=issues"/>
+  <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ridebyhorse&show_icons=true&theme=radical&hide=issues,stars"/>
  </a>
 </p>
 
@@ -25,3 +26,4 @@
 
 [telegram]: https://t.me/ridebyhorse
 [post]: mailto:ridebyhorse@gmail.com
+
