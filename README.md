@@ -4,8 +4,8 @@
 </h1>
 
 ### I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 🚀 Swift 5 / UIKit / Autolayout / CocoaPods
-- :zap: Solving problems on LeetCode
+- 🚀 Swift 5 / UIKit / Autolayout / SPM / URLSession / GCD
+- :zap: Participating in team projects, solving problems on LeetCode
 - 🌠 Designing in Figma and Photoshop
 - 🤝 Open for collaborations
 
