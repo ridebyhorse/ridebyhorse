@@ -1,10 +1,9 @@
 <h1>
-  Hi there, my name is Maria
+  Hi, I'm Maria
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### I'm an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia
-- 🚀 Swift 5 / UIKit / Autolayout / SPM / URLSession / GCD
+### iOS Developer from Russia
 - :zap: Participating in team projects, solving problems on LeetCode
 - 🌠 Designing in Figma and Photoshop
 - 🤝 Open for collaborations
